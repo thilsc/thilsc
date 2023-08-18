@@ -26,8 +26,8 @@ I'm Thiago, a full-stack developer working on Delphi, C# and PHP projects since 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagolsc)
 
 # 📊 Statistics:
+[![Estatisticas](https://github-readme-stats.vercel.app/api?username=thilsc&show_icons=true&theme=transparent )]
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilsc&theme=transparent" />
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=thilsc&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛢 Main Repos:
 [![RadioWebPlayer](https://github-readme-stats.vercel.app/api/pin/?username=thilsc&repo=RadioWebPlayer&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
