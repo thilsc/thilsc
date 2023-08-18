@@ -1,8 +1,7 @@
 # 👋 Hi there!
+I'm Thiago, a full-stack developer working on Delphi, C# and PHP projects since 1999.
 
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-
-# 💻 Tech Stack
+# 💻 Technologies
 <a href="https://www.embarcadero.com/products/delphi" title="Delphi"><img src="https://github.com/get-icon/geticon/raw/master/icons/delphi.svg" alt="Delphi" width="21px" height="21px">
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -22,11 +21,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 🌐 Socials:
+# 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thcoutinho.dev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagolsc)
 
-# 📊 GitHub Stats:
+# 📊 Statistics:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=thilsc&theme=transparent" />  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilsc&theme=transparent" />
 
